@@ -1,17 +1,13 @@
 Algoritmo "Apostila EX002"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 18/08/2022
+
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 nome : caractere
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-Escreva("What's your name? ")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+Escreva("Qual Ã© o seu nome? ")
 Leia(nome)
-EscrevaL("Hello ",nome,", Nice to meet you!")
+EscrevaL("olÃ¡ ",nome,"prazer em te conhecer!")
 
 Fimalgoritmo
