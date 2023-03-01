@@ -1,19 +1,14 @@
 Algoritmo "Apostila EX005"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 18/08/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 nota1, nota2, media : real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-Escreva("Digite sua 1° nota: ")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+Escreva("Digite sua 1Â° nota: ")
 Leia(nota1)
-Escreva("Digite sua 2° nota: ")
+Escreva("Digite sua 2Â° nota: ")
 Leia(nota2)
 media <- (nota1 + nota2) / 2
-EscrevaL("A media de",nota1," e",nota2," é",media)
+EscrevaL("A media de",nota1," e",nota2," Ã©",media)
 
 Fimalgoritmo
