@@ -1,19 +1,14 @@
 Algoritmo "Exercicio 03 Aula 06"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 22/08/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
    fahereint, celcius : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-    Escreva("Digite a temperatura em F°: ")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+    Escreva("Digite a temperatura em FÂ°: ")
     Leia(fahereint)
     celcius <- (fahereint - 32) * 5 / 9
-    EscrevaL("A temperatura vale °C",celcius)
+    EscrevaL("A temperatura vale Â°C",celcius)
     
 
 Fimalgoritmo
