@@ -11,5 +11,6 @@ Bem-Vindo ao meu repositório de algoritmos em portugol do **Curso Em Vídeo**
 5. Então
 6. Funções
 ----
+*Software usado para a criação dos códigos em portugol:* _VisualG_
 
 *Curso grátis disponivel em: [CursoEmVideo](https://www.cursoemvideo.com/)*
